@@ -1,9 +1,75 @@
+[update-readmes]   Mode: rewrite — migrating to template structure...
 # QLogger
 
-In this repository you can find a logger class. Follow the instructions for usage:
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/QLogger)
 
-1. Create an instance: QLoggerManager *manager = QLoggerManager::getInstance();
-2. Add as many destinations as you want:  manager->addDestination(filePathName, module, logLevel);
-3. Print the log in the file with: QLog_ followed by Trace/Debug/Info/Warning/Error/Fatal
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
 
-You can add as much destinations as you want. You also can add several modules for each log file.
+## Architecture
+
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
+
+## Install
+
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
+
+```bash
+git clone https://github.com/Interested-Deving-1896/QLogger.git
+cd QLogger
+```
+
+## Usage
+
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
+
+## Configuration
+
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
+
+## CI
+
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
+
+## Mirror chain
+
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/QLogger`](https://github.com/Interested-Deving-1896/QLogger) and mirrored through:
+
+```
+Interested-Deving-1896/QLogger  ──►  OpenOS-Project-OSP/QLogger  ──►  OpenOS-Project-Ecosystem-OOC/QLogger
+```
+
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
+
+## Contributors
+
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
+
+## Origins
+
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
+
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
+
+## License
+
+<!-- AI:start:license -->
+[LGPL-2.1](https://github.com/Interested-Deving-1896/QLogger/blob/master/LICENSE) © 2026 [Interested-Deving-1896](https://github.com/Interested-Deving-1896)
+<!-- AI:end:license -->
